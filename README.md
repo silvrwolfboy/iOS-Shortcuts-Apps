@@ -13,7 +13,7 @@ If for any reason you need to contact me for bugs, broken links, etc. you can em
 
 # iOS Shortcuts On The App Store
 
-
+https://apps.apple.com/us/app/shortcuts/id915249334
 
 # Legal
 Copyright © 1983-2019 Apple Inc. All rights reserved. 
